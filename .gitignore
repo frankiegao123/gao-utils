@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+bin
+build
+target
+test-output
+info
+.gradle
+mvn-package-upload.bat
